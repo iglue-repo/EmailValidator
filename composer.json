@@ -1,6 +1,9 @@
 {
-  "name":         "egulias/email-validator",
-  "description":  "A library for validating emails",
+  "name":         "egulias@iglue/email-validator",
+  "replace": {
+    "egulias/email-validator": "1.2.14"
+  },
+  "description":  "A library for validating emails against several RFCs",
   "homepage":     "https://github.com/egulias/EmailValidator",
   "type":         "Library",
   "keywords":     ["email", "validation", "validator", "emailvalidation", "emailvalidator"],
